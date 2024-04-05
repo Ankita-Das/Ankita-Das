@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankita
-- 👀 I’m interested in Data Engineering, math visualization
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Spark development
+- 💞️ I’m looking to 
 - 📫 How to reach me ...
 
 <!---
