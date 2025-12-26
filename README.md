@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Ankita
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to 
-- 📫 How to reach me ...
+- 👀 Currently interests lie in trying to understand how OS, compiler and architecture play together to make programs run, with a focus on what are the points of vulnerabilities that can cause security issues. 
+- 💞️ I’m looking forward to any opportunity that helps me gain a better understanding on the above topics
+- 📫 Write to me @ankitadas.next@gmail.com 
 
-<!---
-Ankita-Das/Ankita-Das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
